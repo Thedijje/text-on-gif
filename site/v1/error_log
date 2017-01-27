@@ -1,0 +1,83 @@
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagecreatefromjpeg(images/img1.jpg): failed to open stream: No such file or directory in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 14
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 19
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 20
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 27
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 28
+[23-Jan-2017 09:03:15 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/index.php on line 29
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:26:15 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:27:28 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:27:45 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:27:54 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:28:44 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:43:40 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:45:13 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 09:46:05 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 10:54:49 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/gif.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 52
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 61
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 62
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 69
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 70
+[23-Jan-2017 10:55:35 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 72
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 64
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagecreatefromjpeg(): 'gif/heart_frame/540X480.zip' is not a valid JPEG file in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 64
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 81
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 82
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 92
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 95
+[24-Jan-2017 08:35:04 America/Chicago] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home4/himanshprnm/public_html/buguza.com/dev/gif.php on line 99
