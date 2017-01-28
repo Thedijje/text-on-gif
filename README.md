@@ -1,5 +1,13 @@
 <h1>Add Text on GIF Using PHP</h1>
 <hr>
+<pre>
+Project Name    :   Gif Text
+Function        :   Add text to animated GIF
+Developed by    :   Dheeraj Thedijje
+Website         :   <a href="http://Thedijje.com">http://Thedijje.com</a>
+Contact         :   <a href="mailto:dheeraj@thedijje.com">Dheeraj@thedijje.com</a>
+
+</pre>
 <h2>Introduction</h2>
 <p>Native GD library of PHP Support image manipulation which can be performed by using PHP functions. But no direct Animated Gif editing option to add text on it. This project is out put of solution of this problem.
 
