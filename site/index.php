@@ -7,8 +7,8 @@
 		if(isset($_POST['text']) OR isset($_GET['text'])){
 			$placeholder	=	"";
 		}
-$image_url	=	"";
-$site_url		=	'http://'.$_SERVER['HTTP_HOST'].'/';
+			$image_url	=	"";
+			$site_url		=	'http://'.$_SERVER['HTTP_HOST'].'/';
 
 if(isset($_POST['text']) OR isset($_GET['text'])){
 	$image_key			=	$_POST['image'];
